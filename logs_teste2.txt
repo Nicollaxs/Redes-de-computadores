@@ -1,0 +1,34 @@
+[22:43:21] Packet Sent: Seq=0, Size=1060 bytes
+[22:43:22] Timeout: Retransmitting Seq=0
+[22:43:22] Throughput: 0.00 Mbps
+[22:43:22] Packet Sent: Seq=0, Size=1060 bytes
+[22:43:23] Timeout: Retransmitting Seq=0
+[22:43:23] Throughput: 0.00 Mbps
+[22:43:23] Packet Sent: Seq=0, Size=1060 bytes
+[22:43:24] Timeout: Retransmitting Seq=0
+[22:43:24] Throughput: 0.00 Mbps
+[22:43:24] Packet Sent: Seq=0, Size=1060 bytes
+[22:43:25] Timeout: Retransmitting Seq=0
+[22:43:25] Throughput: 0.00 Mbps
+[22:43:25] Packet Sent: Seq=0, Size=1060 bytes
+[22:43:26] Timeout: Retransmitting Seq=0
+[22:43:26] Throughput: 0.00 Mbps
+[22:43:26] Packet Sent: Seq=0, Size=1060 bytes
+[22:43:27] Timeout: Retransmitting Seq=0
+[22:43:27] Throughput: 0.00 Mbps
+[22:43:27] Packet Sent: Seq=0, Size=1060 bytes
+[22:43:28] Timeout: Retransmitting Seq=0
+[22:43:28] Throughput: 0.00 Mbps
+[22:43:28] Packet Sent: Seq=0, Size=1060 bytes
+[22:43:29] Timeout: Retransmitting Seq=0
+[22:43:29] Throughput: 0.00 Mbps
+[22:43:29] Packet Sent: Seq=0, Size=1060 bytes
+[22:43:30] Timeout: Retransmitting Seq=0
+[22:43:30] Throughput: 0.00 Mbps
+[22:43:30] Packet Sent: Seq=0, Size=1060 bytes
+[22:43:31] Timeout: Retransmitting Seq=0
+[22:43:31] Throughput: 0.00 Mbps
+[22:43:31] Packet Sent: Seq=0, Size=1060 bytes
+[22:43:32] Timeout: Retransmitting Seq=0
+[22:43:32] Abort: Max retries reached
+[22:43:32] Client Closed: Socket closed
